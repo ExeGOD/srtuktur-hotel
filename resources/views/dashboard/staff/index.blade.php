@@ -10,7 +10,7 @@
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
     @endif
-    <a href="/dashboard/staff/create" class="btn btn-success mb-3">Create Data</a>
+    <a href="/dashboard/staff/create" class="btn btn-success mb-3">Buat Data</a>
     <div class="table-responsive">
         <table class="table table-striped table-sm">
             <thead>

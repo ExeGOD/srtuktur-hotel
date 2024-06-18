@@ -39,9 +39,9 @@
               </div>
               @enderror
             </div>
-            <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
+            <button class="w-100 btn btn-lg btn-primary" type="submit">Daftar</button>
           </form>
-          <small class="d-block text-center mt-3">Not Registered? <a href="/register">Register Now!</a></small>
+          <small class="d-block text-center mt-3">Tidak Terdaftar? <a href="/register">Daftar Sekarang!</a></small>
         </main>
     </div>
 </div>

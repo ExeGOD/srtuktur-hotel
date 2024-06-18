@@ -20,7 +20,7 @@
           <input type="email" name="Email" id="Email" class="form-control" value="{{ $customer->Email }}" required >
         </div>
         <div class="mb-3">
-          <label for="Phone" class="form-label">Phone</label>
+          <label for="Phone" class="form-label">Code</label>
           <input type="number" name="Phone"  id="Phone"  class="form-control" value="{{ $customer->Phone }}" required>
         </div>
         <button type="submit" class="btn btn-success">Update</button>

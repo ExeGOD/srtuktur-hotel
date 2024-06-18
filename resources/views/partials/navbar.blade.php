@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
-    <a class="navbar-brand" href="/">My Web App!</a>
+    <a class="navbar-brand" href="/">SERENE HOTEL</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -9,9 +9,9 @@
         <li class="nav-item">
           <a class="nav-link {{ Request::is('/') ? 'active' : '' }}" href="/">Beranda</a>
         </li> 
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link {{ Request::is('/testing') ? 'active' : '' }}" href="/testing">Testing</a>
-        </li>
+        </li> -->
       </ul>
 
       <ul class="navbar-nav ms-auto">
